@@ -1,0 +1,22 @@
+{
+    "todo-item": {
+        "content": "Test Task",
+        "notify": false,
+        "description": "Test Task Sub Item",
+        "due-date": "20230305",
+        "start-date": "20230306",
+        "estimated-minutes": "0",
+        "private": 0,
+        "grant-access-to": "",
+        "priority": "low",
+        "progress": "0",
+        "attachments": [],
+        "pendingFileAttachments": "",
+        "responsible-party-id": 0,
+        "predecessors": [],
+        "tags": "api,documentation",
+        "commentFollowerIds": "",
+        "changeFollowerIds": "",
+        "positionAfterTask": 0
+    }
+}
